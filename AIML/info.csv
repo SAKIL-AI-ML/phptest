@@ -1,0 +1,21 @@
+CustomerID,Gender,Age,City,Salary,Married,Purchased
+1,Male,25,Kolkata,35000,No,Yes
+2,Female, ,Delhi,42000,Yes,No
+3,male,35,Mumbai,58000,Yes,Yes
+4,FEMALE,29,Delhi,,No,No
+5,Male,42,Kolkata,61000,Yes,Yes
+6,Female,23,Chennai,32000,No,No
+7,Male, ,Mumbai,54000,Yes,Yes
+8,Female,31,Chennai,NaN,No,No
+9,Male,28,Kolkata,48000,Yes,Yes
+10,Female,45,Delhi,65000,Yes,Yes
+11,Male,33, Mumbai,52000,No,No
+12,Female,27,Chennai,39000,No,No
+13,Male,36,Kolkata,,Yes,Yes
+14,Female, ,Delhi,47000,Yes,No
+15,Male,41,Mumbai,60000,Yes,Yes
+16,Female,22,Chennai,30000,No,No
+17,Male,38,Kolkata,59000,Yes,Yes
+18,Female,26,Delhi,41000,No,No
+19,Male,34,Mumbai,56000,Yes,Yes
+20,Female,30,Chennai,45000,Yes,No
